@@ -28,5 +28,6 @@ Explore correlations between customer attributes, build a regression and a decis
 - For a challenge: build a decision-tree based model to predict salary. Does it perform better? How would you accurately test the performance of this model?
 
 Solution : [anz_task2.ipynb](https://github.com/tapojoyde/ANZ-Data-Internship/blob/main/anz_task2.ipynb)
-***
+
+## Certificate
 View my [Certificate of Completion](https://github.com/tapojoyde/ANZ-Data-Internship/blob/main/ANZ_Data_Completion_Certificate.pdf).
