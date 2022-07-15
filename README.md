@@ -29,4 +29,5 @@ Explore correlations between customer attributes, build a regression and a decis
 
 Solution : [anz_task2.ipynb](https://github.com/tapojoyde/ANZ-Data-Internship/blob/main/anz_task2.ipynb)
 ***
-[Certificate of Completion](https://github.com/tapojoyde/ANZ-Data-Internship/blob/main/ANZ_Data_Completion_Certificate.pdf)
+View my [Certificate of Completion](https://github.com/tapojoyde/ANZ-Data-Internship/blob/main/ANZ_Data_Completion_Certificate.pdf)
+***
