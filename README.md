@@ -1,5 +1,5 @@
 # Data@ANZ Virtual Internship Program
-***
+
 This repository contains my work and solutions to the [ANZ](https://www.anz.com.au/personal/) Australia's [Data@ANZ Virtual Internship](https://www.theforage.com/virtual-internships/prototype/ZLJCsrpkHo9pZBJNY/Data@ANZ%20Program) hosted on the [Forage](https://www.theforage.com/) platform.
 
 ## About
