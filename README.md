@@ -19,7 +19,7 @@ Segment the dataset and draw unique insights, including visualisation of the tra
 Solution : [anz_task1.ipynb](https://github.com/tapojoyde/ANZ-Data-Internship/blob/main/anz_task1.ipynb)
 
 ## Task 2: Predictive Analytics
-Explore correlations between customer attributes, build a regression and a decision-tree prediction model based on your findings.
+Explore correlations between customer attributes, and build a regression and a decision-tree prediction model based on your findings.
 
 - Using the same transaction dataset, identify the annual salary for each customer
 - Explore correlations between annual salary and various customer attributes (e.g. age). These attributes could be those that are readily available in the data (e.g. age) or those that you construct or derive yourself (e.g. those relating to purchasing behaviour). Visualise any interesting correlations using a scatter plot.
