@@ -7,7 +7,7 @@ ANZ is one of the big four banks in Australia and their Data@ANZ Program is abou
 ## Main Objective
 This virtual experience program seeks to explore the transactional behaviour of ANZ customers by examining a synthesised transaction dataset containing transactions made by 100 hypothetical customers over a period of 3 months. These transactions include purchases, recurring transactions and salary transactions.
 
-## Task 1: Exploratory Data Analysis | Solution : [anz_task1.ipynb](https://nbviewer.org/github/tapojoyde/ANZ-Data-Internship/blob/main/anz_task1.ipynb)
+## Task 1: Exploratory Data Analysis || Solution: [anz_task1.ipynb](https://nbviewer.org/github/tapojoyde/ANZ-Data-Internship/blob/main/anz_task1.ipynb)
 
 Segment the dataset and draw unique insights, including visualisation of the transaction volume and assessing the effect of any outliers.
 
@@ -17,7 +17,7 @@ Segment the dataset and draw unique insights, including visualisation of the tra
 - Segment the dataset by transaction date and time. Visualise transaction volume and spending over the course of an average day or week. Consider the effect of any outliers that may distort your analysis.
 - For a challenge – what insights can you draw from the location information provided in the dataset?
 
-## Task 2: Predictive Analytics | Solution : [anz_task2.ipynb](https://nbviewer.org/github/tapojoyde/ANZ-Data-Internship/blob/main/anz_task2.ipynb)
+## Task 2: Predictive Analytics || Solution: [anz_task2.ipynb](https://nbviewer.org/github/tapojoyde/ANZ-Data-Internship/blob/main/anz_task2.ipynb)
 Explore correlations between customer attributes, and build a regression and a decision-tree prediction model based on your findings.
 
 - Using the same transaction dataset, identify the annual salary for each customer
